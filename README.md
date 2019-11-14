@@ -10,6 +10,8 @@
 - **[Idea](https://drive.google.com/file/d/0BzzTdF5hw0YRbmhoUkJfalRNRnM/view?usp=sharing)**
 - **[Feedback](http://goo.gl/forms/Tbt5klLhCW=)**
 - **[apk](https://mega.nz/#!66hB2YaY!omg5VstyyRMAyfhDojKl6-UpBeqld_SxdiqgfeQHRSQ)**
+- **[Presentation](https://drive.google.com/open?id=0B1SUy2ysIW0SY1RtQWIwUW1fVWM)**
+-  **[Video Presentation](https://www.youtube.com/watch?v=X6cD5TXvMw0)**
 
 
 **Doctor Finder** is a project born by an idea from four students of computer engineering where challenging in Google workshop 2015 in Sapienza University of Rome.  
@@ -66,4 +68,4 @@ Social networks connects people all around the world and we thought to use those
 
 * [Giovanni Giampaolo](https://www.linkedin.com/in/giampaologiovanni) 
 * [Francesco Starna](https://it.linkedin.com/in/francesco-starna-754914b5/it)
-* [Federico Bacci] https://it.linkedin.com/in/federico-bacci-a18462a8/it)
+* [Federico Bacci]https://it.linkedin.com/in/federico-bacci-a18462a8/it)
