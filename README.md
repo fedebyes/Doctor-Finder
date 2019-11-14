@@ -27,14 +27,14 @@ Social networks connects people all around the world and we thought to use those
 
 <img src="http://i.imgur.com/u0FMmUV.png" height="480" width="285"/>
 
-#Milestone 1 - Proof of Concept
+# Milestone 1 - Proof of Concept
 
 * [First survey](http://www.survio.com/survey/d/F7N6K8Y2D5X5W9Q9N)
 * [Results first survey](https://www.mediafire.com/convkey/a2e8/04qe2mddku2sdul6g.jpg) (Results at 15/15/2015)
 * [Presentation] (https://docs.google.com/presentation/d/1e2ooDbdLt6EfoGjudyGUOKhif2DCc-I7rrsz6rbCGII/edit?usp=sharing) 
 * [#1 Demo video] (https://www.youtube.com/watch?v=2BP3yFm4s44)
 
-#Milestone 2 - Release Candidate
+# Milestone 2 - Release Candidate
 
 * [Second survey](http://goo.gl/forms/SM149jvxNC)
 * [Results Second survey](https://docs.google.com/forms/d/1tBpFF8EJFsCzFIZ7Ic06JE3pYEB8dFVHJU0tlvyriDE/viewanalytics?usp=form_confirm) (Results continuously updated...)
@@ -44,7 +44,7 @@ Social networks connects people all around the world and we thought to use those
 * [Instructions for download and install our APK] (https://drive.google.com/file/d/0B_cyDM3ySwG4THZBVG9vMmJoUW8/view?usp=sharing)
 * [#2 Demo video] (https://youtu.be/b0zcedHIl-g)
 
-#Milestone 3 - Final
+# Milestone 3 - Final
 
 * [Presentation] (https://drive.google.com/open?id=0B1SUy2ysIW0SY1RtQWIwUW1fVWM)
 * [Video Presentation] (https://www.youtube.com/watch?v=X6cD5TXvMw0)
@@ -55,14 +55,14 @@ Social networks connects people all around the world and we thought to use those
 * [App on Play Store] (https://play.google.com/store/apps/details?id=com.doctorfinderapp.doctorfinder)
 
 
-#Final Submission
+# Final Submission
 
 * [Documentation - User Manual] (https://docs.google.com/document/d/1D9-4JPwl09wmdb-9IueyNMuHOLlBucPxajEotlW5eg8/edit?usp=sharing) 
 * [Video Presentation] (https://www.youtube.com/watch?v=X6cD5TXvMw0)
 * [App on Play Store] (https://play.google.com/store/apps/details?id=com.doctorfinderapp.doctorfinder&hl=it) 
 
 
-#Doctor Finder Team
+# Doctor Finder Team
 
 * [Giovanni Giampaolo] (https://www.linkedin.com/in/giampaologiovanni) 
 * [Francesco Starna] (https://it.linkedin.com/in/francesco-starna-754914b5/it)
