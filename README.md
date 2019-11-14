@@ -3,6 +3,7 @@
 <img src="http://i.imgur.com/yA4qahd.png" href"http://doctorfinderapp.com" alt="logo" height="auto" width="auto">
  <b> <h2 align="center"> "The easiest way to find a doctor" </h2></b>
 </p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6cD5TXvMw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **[Facebook](https://www.facebook.com/dcfind/)**
@@ -11,7 +12,7 @@
 - **[Feedback](http://goo.gl/forms/Tbt5klLhCW=)**
 - **[apk](https://mega.nz/#!66hB2YaY!omg5VstyyRMAyfhDojKl6-UpBeqld_SxdiqgfeQHRSQ)**
 - **[Presentation](https://drive.google.com/open?id=0B1SUy2ysIW0SY1RtQWIwUW1fVWM)**
--  **[Video Presentation](https://www.youtube.com/watch?v=X6cD5TXvMw0)**
+- **[Video Presentation](https://www.youtube.com/watch?v=X6cD5TXvMw0)**
 
 
 **Doctor Finder** is a project born by an idea from four students of computer engineering where challenging in Google workshop 2015 in Sapienza University of Rome.  
@@ -68,4 +69,4 @@ Social networks connects people all around the world and we thought to use those
 
 * [Giovanni Giampaolo](https://www.linkedin.com/in/giampaologiovanni) 
 * [Francesco Starna](https://it.linkedin.com/in/francesco-starna-754914b5/it)
-* [Federico Bacci]https://it.linkedin.com/in/federico-bacci-a18462a8/it)
+* [Federico Bacci](https://it.linkedin.com/in/federico-bacci-a18462a8/it)
