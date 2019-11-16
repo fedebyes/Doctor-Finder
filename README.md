@@ -4,7 +4,6 @@
  <b> <h2 align="center"> "The easiest way to find a doctor" </h2></b>
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X6cD5TXvMw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **[Facebook](https://www.facebook.com/dcfind/)**
 - **[Trello! ](https://trello.com/b/0uSh0ofs)**
